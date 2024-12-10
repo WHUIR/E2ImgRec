@@ -1,4 +1,4 @@
-# E2ImgRec - Spectral and Geometric Spaces Representation Regularization for Multi-Modal Sequential Recommendation (CIKM'25)
+# E2ImgRec - Spectral and Geometric Spaces Representation Regularization for Multi-Modal Sequential Recommendation (CIKM'24)
 
 ## Requirements
 
